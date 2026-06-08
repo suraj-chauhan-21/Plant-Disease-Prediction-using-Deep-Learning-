@@ -1,4 +1,4 @@
-# 🌿 Plant Disease Detection System using Deep Learning
+# Plant Disease Detection System using Deep Learning
 
 [![Python Version](https://img.shields.io/badge/Python-3.8%20%7C%203.9%20%7C%203.10-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.11%20to%202.15-orange.svg)](https://tensorflow.org)
@@ -10,7 +10,7 @@ Welcome to the **Plant Disease Detection System**, a production-ready Deep Learn
 
 ---
 
-## 🧒 Explain Like I'm 10 (ELI10): How does this work?
+##  How does this work?
 
 Imagine you have a big box of LEGOs. Some blocks are red, some are green, and some are blue. If I ask you to sort them, you look at their colors and shapes, right? Our AI does the exact same thing with plant leaves!
 
@@ -20,7 +20,7 @@ Imagine you have a big box of LEGOs. Some blocks are red, some are green, and so
 
 ---
 
-## 📂 Repository File Structure
+##  Repository File Structure
 
 The project has been restructured into a modular, production-grade codebase:
 
@@ -58,7 +58,7 @@ plant-disease-detection/
 
 ---
 
-## 📊 Model Performance Metrics
+##  Model Performance Metrics
 
 The custom 4-Block CNN architecture includes Batch Normalization, Dropout layers, and data augmentations. The final model achieves the following metrics on the benchmark PlantVillage dataset:
 
@@ -71,7 +71,7 @@ The custom 4-Block CNN architecture includes Batch Normalization, Dropout layers
 
 ---
 
-## 🛠️ Getting Started & Installation
+##  Getting Started & Installation
 
 Follow these steps to set up and run the system on your computer:
 
@@ -99,7 +99,7 @@ Please download the **PlantVillage Dataset** and structure the directories as ex
 
 ---
 
-## 🚀 Usage Guide
+## Usage Guide
 
 This system supports multiple interfaces (CLI, Web Application, and programmatic API).
 
@@ -131,7 +131,7 @@ python -m src.predict --image path/to/leaf_image.jpg --threshold 0.5
 
 ---
 
-## 🧪 Running Automated Tests
+##  Running Automated Tests
 
 A suite of unit tests is included inside the `/tests` folder to check compilation and input/output shapes. Run them with `pytest`:
 ```bash
@@ -140,7 +140,7 @@ pytest
 
 ---
 
-## 🔗 Dataset Reference
+##  Dataset Reference
 
 The deep learning model is trained on the benchmark **PlantVillage Dataset**, which contains crop leaf specimens across 38 distinct categories. You can download the dataset from Kaggle:
 - **Kaggle Dataset:** [New Plant Diseases Dataset by @vipoooool](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset)
