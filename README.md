@@ -1,4 +1,4 @@
-# Plant Disease Detection System using Deep Learning
+# Plant Disease Detection System using Machine Learning
 
 [![Python Version](https://img.shields.io/badge/Python-3.8%20%7C%203.9%20%7C%203.10-blue.svg)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.11%20to%202.15-orange.svg)](https://tensorflow.org)
@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg)]()
 
-Welcome to the **Plant Disease Detection System**, a production-ready Deep Learning classification platform. The system uses a Convolutional Neural Network (CNN) trained on plant leaf images to identify agricultural disease patterns across 38 distinct crop classes (e.g., Apple, Tomato, Corn, Potato) with high classification confidence.
+Welcome to the **Plant Disease Detection System**, a production-ready Machine Learning classification platform. The system uses a Convolutional Neural Network (CNN) trained on plant leaf images to identify agricultural disease patterns across 38 distinct crop classes (e.g., Apple, Tomato, Corn, Potato) with high classification confidence.
 
 ---
 
